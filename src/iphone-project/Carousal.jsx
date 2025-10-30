@@ -4,7 +4,7 @@ import iphone13 from "./assets/iphone13.jpg";
 export function Carousal()
 {
       
-    const endDate=new Date("2024-12-25");
+    const endDate=new Date("2025-12-24");
 
     return (<div className="carousal-container" >
     
