@@ -1,5 +1,5 @@
 import React from "react";
-import whatsapp from "./Assets/whatsapp-icon.png";
+import whatsapp from "./Assets/whatsapp.png";
 import { iphones } from "./Iphones";
 
 function ProductDetail({product})

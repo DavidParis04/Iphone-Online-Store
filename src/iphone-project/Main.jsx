@@ -3,7 +3,7 @@ import { Carousal } from "./Carousal";
 import { FeaturedProducts } from "./FeaturedProducts";
 import { Testimony } from "./Testimony";
 import { ShareOnWhatsApp } from "./whatsapp/whatsapp";
-import whatsapp from "./assets/whatsapp-icon.png";
+import whatsapp from "./Assets/whatsapp.png";
 
 export function Main()
     {
