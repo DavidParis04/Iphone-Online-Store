@@ -1,0 +1,11 @@
+
+  body {
+    font-family:  "trebuchet MS", sans-serif;
+  }
+  
+  /* You can keep your reset for margin */
+  * {
+    margin: 0;
+    padding: 0; /* Good to add this too */
+    box-sizing: border-box; /* Also recommended */
+  }
