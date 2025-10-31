@@ -1,6 +1,6 @@
 import React from "react";
 import Countdown from "react-countdown";
-import iphone13 from "./Assets/iphone13.jpg";
+import iphone13 from "./assets/iphone13.jpg";
 export function Carousal()
 {
       

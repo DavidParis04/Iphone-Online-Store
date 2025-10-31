@@ -1,6 +1,6 @@
 import React from 'react'
 import {FaPlay, FaPlayCircle, FaStar} from 'react-icons/fa'
-import suya from "./Assets/suya.jpg";
+import suya from "./assets/suya.jpg";
 export function BeforeVideo({setChange=f=>f})
 {
   
