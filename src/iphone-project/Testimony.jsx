@@ -1,8 +1,8 @@
 import React from "react";
 import { useState } from "react";
-import { Video } from "./Video";
-import { BeforeVideo } from "./BeforeVideo";
-import { ReviewStar } from "./ReviewStar";
+import { Video } from "./Video.jsx";
+import { BeforeVideo } from "./BeforeVideo.jsx";
+import { ReviewStar } from "./ReviewStar.jsx";
 
 const data=[
     {

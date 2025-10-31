@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Modal } from "./Modal";
+import { Modal } from "./Modal.jsx";
 export function Login({submitForm, email, setEmail=f=>f, text, setText=f=>f}) {
 
     

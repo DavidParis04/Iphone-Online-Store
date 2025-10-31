@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
-import { Carousal } from "./Carousal";
-import { FeaturedProducts } from "./FeaturedProducts";
-import { Testimony } from "./Testimony";
-import { ShareOnWhatsApp } from "./whatsapp/whatsapp";
+import { Carousal } from "./Carousal.jsx";
+import { FeaturedProducts } from "./FeaturedProducts.jsx";
+import { Testimony } from "./Testimony.jsx";
+import { ShareOnWhatsApp } from "./whatsapp/whatsapp.jsx";
 import whatsapp from "./assets/whatsapp.png";
 
 export function Main()
