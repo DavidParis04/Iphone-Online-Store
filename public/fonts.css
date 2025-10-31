@@ -1,0 +1,18 @@
+
+     @font-face {
+      font-family: "GlacialIndifference";
+      src: url('./fonts/GlacialIndifference-Regular.otf')format('opentype');
+     }
+     @font-face {
+      font-family: "GlacialIndifference";
+      font-weight: bold;
+      src: url('./fonts/GlacialIndifference-bold.otf')format('opentype');
+     }
+
+      *
+      {
+        margin:0;
+       
+        font-family: 'trebuchet MS';
+      }
+    
