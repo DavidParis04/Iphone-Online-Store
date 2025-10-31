@@ -1,11 +1,11 @@
 import React from "react"
-import iphone11 from "./assets/iphone11promax.jpg";
-import iphone12 from "./assets/iphone12promax.jpg";
-import iphone13 from "./assets/iphone13.jpg";
-import iphone15Promax2 from "./assets/Iphone15promax2.jpg";
-import iphone5s from "./assets/iphone5s.jpg";
-import iphonexs from "./assets/iphoneXS.jpg";
-import iphone14promax from "./assets/i14promax.jpg";
+import iphone11 from "./Assets/iphone11promax.jpg";
+import iphone12 from "./Assets/iphone12promax.jpg";
+import iphone13 from "./Assets/iphone13.jpg";
+import iphone15Promax2 from "./Assets/Iphone15promax2.jpg";
+import iphone5s from "./Assets/iphone5s.jpg";
+import iphonexs from "./Assets/iphoneXS.jpg";
+import iphone14promax from "./Assets/i14promax.jpg";
 
 
 export const iphones=[

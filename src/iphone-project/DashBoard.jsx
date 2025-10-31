@@ -1,5 +1,5 @@
 import React from "react";
-import { iphones } from "./iphones";
+import { iphones } from "./Iphones.jsx";
 import { FaEdit } from "react-icons/fa";
 
  function DashBoard()
